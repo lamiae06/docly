@@ -50,7 +50,7 @@ Chaque document (résultat d'analyse, courrier, pièce administrative...)
 est associé à un patient et classé par catégorie, avec titre et
 description libres.
 
-![Formulaire d'ajout d'un document patient](docs/screenshots/documents-upload.png)
+
 
 *Ajout d'un nouveau document : titre, patient, catégorie, fichier
 (PDF, JPG, PNG, DOC, DOCX) et description.*
