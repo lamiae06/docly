@@ -1,0 +1,10 @@
+{
+  "name": "docly",
+  "version": "2.0.0",
+  "description": "Docly - Plateforme de Gestion de Clinique Medicale (backend PHP ; ce package.json sert uniquement de raccourci npm pour lancer le serveur local)",
+  "private": true,
+  "scripts": {
+    "dev": "php -S localhost:8000 -t public public/router.php",
+    "start": "npm run dev"
+  }
+}
